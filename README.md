@@ -1,10 +1,6 @@
 I’m @SpookyClay
 
-
-I’m interested in learning many languages as possible
-
-
-I’m currently learning Python and C
-📫 ItsaClay#2475 on Discord
+I’m currently learning Python, C and Java
+📫 clqy_ on Discord
 
 Most of my stuff is going to be random projects for games or games themselves.
